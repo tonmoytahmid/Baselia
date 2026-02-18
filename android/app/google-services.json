@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687270611774",
+    "project_id": "basileia-f390e",
+    "storage_bucket": "basileia-f390e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687270611774:android:f09fe820977ea2b68fba6f",
+        "android_client_info": {
+          "package_name": "com.example.baseliae_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo3JYySE61gsrO0A3jaY6pZ2X9UCt-UXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
