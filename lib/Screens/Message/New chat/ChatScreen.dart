@@ -3,7 +3,6 @@
 import 'package:baseliae_flutter/Controller/Chats/ChatController.dart';
 import 'package:baseliae_flutter/Screens/Message/New%20chat/chatBubble.dart';
 import 'package:baseliae_flutter/Service/Chatservice.dart';
-import 'package:baseliae_flutter/Service/zego_config.dart' show ZegoConfig;
 
 import 'package:baseliae_flutter/Style/AppStyle.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
